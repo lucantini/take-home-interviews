@@ -1,6 +1,6 @@
 # Carta - Frontend take-home interview assignment
 
-## Group Purchase store
+## GitHub User Viewer
 
 You are creating a client-side application that consumes the GitHub API and
 show the most popular repos of a specific user.
