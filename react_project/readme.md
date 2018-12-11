@@ -32,7 +32,6 @@ The endpoints that will be used are:
 - Repo details: [https://api.github.com/repos/{full_name}](https://developer.github.com/v3/repos/#get)
 ### Project instructions
 - Fork this repository on your machine
-- Remove the `.git` directory in the repo's root directory
 - make your changes in the `./react_project` directory
 
 Once finished, open up a PR with your code!
