@@ -33,6 +33,10 @@ The endpoints that will be used are:
 - User details: [https://api.github.com/users/{username}](https://developer.github.com/v3/users/)
 - Repos of a specific user: [https://api.github.com/users/{username}/repos](https://developer.github.com/v3/repos/#list-user-repositories)
 - Repo details: [https://api.github.com/repos/{full_name}](https://developer.github.com/v3/repos/#get)
+
+- It's possible that you are going to reach the limit of request
+that GitHub offers. To create a personal access token check this [link](https://help.github.com/articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization/).
+Be careful not to commit your personal token.
 ### Project instructions
 - Fork this repository on your machine
 - make your changes in the `./react_project` directory
