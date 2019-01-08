@@ -40,8 +40,9 @@ Be careful not to commit your personal token.
 ### Project instructions
 - Fork this repository on your machine
 - make your changes in the `./react_project` directory
-- We provide you with a basic start script and CSS files in this repo.
-To see your changes, just run `yarn start`
+- We provide basic stylling via the `src/index.css` file
+- We provide you with a basic `yarn start` script for React
+- We also provide a simpler `yarn serve` script for other libraries
 
 Once finished, open up a PR with your code.
 
