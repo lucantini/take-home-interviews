@@ -15,10 +15,8 @@ Do as many as you can.
 ##### Level 1
 - The user should be able to search for a GitHub User;
 - The user should be able to see the searched GitHub User info - avatar, followers, following, e-mail and bio;
-- The user should be able to see the GitHub User repos. Listed in order by number of stars;
 ##### Level 2
-- The user should be able to change the ordering of the listed repos - order by name/date/etc;
-
+- The user should be able to see the GitHub User repos information - name, langage, creation date and stars - in a table visualization. Listed in order, by number of stars;
 ##### Level 3
 - Once a specific repo is clicked, the route changes, showing a page for the specific repo, with
 it's details - repo name, description, number of stars, language and a link to the GitHub repo page;
